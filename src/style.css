@@ -88,7 +88,6 @@ body {
 .searchbar__input::placeholder {
   font-family: Avenir, sans-serif;
   color: rgba(61, 78, 97, 1);
-  font-weight: 400;
   letter-spacing: 0;
   opacity: 1;
 }
